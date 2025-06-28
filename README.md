@@ -1,4 +1,4 @@
-# UTFPR sylabus
+# UTFPR syllabus
 UTFPR Syllabus
 
 Projeto criado na matéria ELN8DI - Technological Craftsmanship Works da UTFPR (Universidade Tecnológica Federal do Paraná).
